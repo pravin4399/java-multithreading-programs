@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/create-thread-using-anonymous-class and lambda expression/create-thread-using-anonymous-class and lambda expression.iml" filepath="$PROJECT_DIR$/create-thread-using-anonymous-class and lambda expression/create-thread-using-anonymous-class and lambda expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deadlock-using-two-objects-and-its-solution/deadlock-using-two-objects-and-its-solution.iml" filepath="$PROJECT_DIR$/deadlock-using-two-objects-and-its-solution/deadlock-using-two-objects-and-its-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-multithreading-programs.iml" filepath="$PROJECT_DIR$/.idea/java-multithreading-programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer-consumer-problem-solution/producer-consumer-problem-solution.iml" filepath="$PROJECT_DIR$/producer-consumer-problem-solution/producer-consumer-problem-solution.iml" />
     </modules>
   </component>
 </project>
